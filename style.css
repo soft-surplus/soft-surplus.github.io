@@ -34,7 +34,7 @@ body{
 	filter: blur(8px);
 	animation-name: blur_animation;
 	animation-duration: 1s;
-	animation-delay: 5.5s;
+	animation-delay: 6.5s;
 	animation-fill-mode: forwards;
 }
 @keyframes blur_animation {
@@ -52,7 +52,7 @@ body{
 	pointer-events: none;
 	animation-name: modal_animation;
 	animation-duration: 1s;
-	animation-delay: 5s;
+	animation-delay: 6.5s;
 	animation-fill-mode: forwards;
 }
 @keyframes modal_animation {
